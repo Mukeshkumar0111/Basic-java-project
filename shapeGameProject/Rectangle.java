@@ -1,5 +1,4 @@
 
-
 public class Rectangle extends TwoDShape{
 	double l, w;
 	public Rectangle() {

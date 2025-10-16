@@ -3,7 +3,7 @@
 public class Cylinder extends ThreeDShape{
 	double r, h;
 	public Cylinder() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	Cylinder(double r, double h){
 		this.r=r;
